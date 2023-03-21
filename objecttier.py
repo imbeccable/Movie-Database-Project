@@ -13,8 +13,6 @@
 #
 # Modified by:
 #   Becca Nika
-#   UIN: 670872082
-#   NetID: rnika3
 #
 import datatier
 
